@@ -36,15 +36,25 @@ npm start
 check the others in package.json
 
 ## Screenshots
-These are some screenshots of the app
-[!HomeScreen](./screenshots/1.jpg)
-[!HomeScreen](./screenshots/2.jpg)
-[!HomeScreen](./screenshots/3.jpg)
-[!HomeScreen](./screenshots/4.jpg)
-[!HomeScreen](./screenshots/5.jpg)
-[!HomeScreen](./screenshots/6.jpg)
-[!HomeScreen](./screenshots/7.jpg)
-[!HomeScreen](./screenshots/8.jpg)
+### Home Screen
+![HomeScreen](./screenshots/1.jpg)
+![HomeScreen](./screenshots/2.jpg)
+![HomeScreen](./screenshots/7.jpg)
+
+### Menu Button
+![HomeScreen](./screenshots/3.jpg)
+
+
+
+### Checkout Page
+![HomeScreen](./screenshots/4.jpg)
+![HomeScreen](./screenshots/5.jpg)
+
+
+
+### Product Details Screen
+![HomeScreen](./screenshots/8.jpg)
+![HomeScreen](./screenshots/6.jpg)
 
 ## Features
 - Add products to cart
